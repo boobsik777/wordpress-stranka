@@ -4,7 +4,7 @@
     while(have_posts()) {
         the_posts(); ?>
         fuck miro
-    <?php}
+    <?php }
 ?>
 
 <p>footer</p>
