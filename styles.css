@@ -1,0 +1,106 @@
+/*
+Theme Name: Agro Contractor
+Author: Lukáš Brtko
+Description: Custom theme for school project
+Version: 1.0
+*/
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border-bottom: 2px solid #ccc;
+}
+
+.navbar img {
+    height: 50px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+/* Basic link styles */
+.menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 8px;
+}
+
+/* Dropdown container */
+.dropdown {
+    position: relative;
+}
+
+/* Dropdown button */
+.dropbtn {
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 8px;
+}
+
+/* Dropdown content hidden by default */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    z-index: 1;
+    min-width: 200px;
+}
+
+/* Show dropdown on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Each dropdown item */
+.dropdown-content a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+/* Image inside dropdown */
+.dropdown-content img {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+/* Contact section */
+.contact {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contact-number {
+    color: green;
+    font-weight: bold;
+}
+
+.contact-button {
+    background-color: green;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+}
