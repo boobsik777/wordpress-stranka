@@ -81,7 +81,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -126,7 +126,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -171,7 +171,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -237,7 +237,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -261,7 +261,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
@@ -282,7 +282,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
                                 <span>Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
