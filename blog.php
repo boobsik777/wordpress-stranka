@@ -1,64 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-9">
-        <meta name="viewport">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-        <title>Blog3</title>
-        <style>
-            .post-footer {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                margin-top: 10px;
-            }
-            .author-info {
-                display: flex;
-                align-items: center;
-                gap: 8px;
-            }
-            .date-box {
-                position: absolute;
-                top: 10px;
-                left: 10px;
-                background: #809A1B;
-                color: #fff;
-                padding: 4px 6px;
-                border-radius: 4px;
-                text-align: center;
-            }
-            .image-wrapper {
-                position: relative;
-                display: inline-block;
-            }
-            .image-wrapper img {
-                display: block;
-                width: 100%;
-            }
-            .centered {
-                display: flex;
-                justify-content: center;
-            }
-            .pagination {
-                text-align: center;
-            }
-            .pagination a {
-                display: inline-block;
-                width: 40px;
-                line-height: 40px;
-                border-radius: 50%;
-                background: #eee;
-                color: #333;
-            }
-            .pagination .active {
-                background: #809A1B;
-                color: #fff;
-            }
-        </style>
-    </head>
-    <body>
         <div class="container">
             <button type="button" class="btn btn-light">Strona główna</button>
             <h1 class="title">Blog</h1>
@@ -297,5 +236,3 @@
             </div>
 
         </div>
-    </body>
-</html>
