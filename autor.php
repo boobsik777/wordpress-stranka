@@ -6,8 +6,11 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-        <title>Blog3</title>
+        <title>Autor</title>
         <style>
+            .btn {
+                border-radius: 50px;
+            }
             .post-footer {
                 display: flex;
                 justify-content: space-between;
@@ -60,8 +63,32 @@
     </head>
     <body>
         <div class="container">
-            <button type="button" class="btn btn-light">Strona główna</button>
-            <h1 class="title">Blog</h1>
+            <div class="media" style="margin-bottom: 35px;">
+                <div class="media-left">
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-1-e1760609904193.png" class="media-object">
+                </div>
+                <div class="media-body">
+                    <h3 class="media-heading">Imię i nazwisko</h3>
+                    <div style="margin-top: 10px;">
+                        <span>
+                            Stanowisko/specjalizacja &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/vector-1.png">&nbsp; nazwaprofilu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/subtract-1.png">&nbsp; nazwaprofilu
+                        </span>
+                        <button type="button" class="btn btn-light" style="background-color: #809A1B;color: #fff; float: right;">Napisz do mnie</button>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div>
+                Seamlessly iterate out-of-the-box niches without sustainable markets. Holisticly implement high standards in relationships through enabled ROI. Authoritatively cultivate best-of-breed data vis-a-vis resource-leveling schemas. 
+                <br><br>
+                Appropriately re-engineer professional technology before synergistic partnerships.
+            </div>
+            <br><br><br>
+
+            <h3 style="text-align: center;">Artykuły od [imię nazwisko]</h3>
+            <br><br><br>
             
             <div class="row">
                 <!-- 1 -->
