@@ -8,6 +8,9 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         <title>Blog3</title>
         <style>
+            .btn {
+                border-radius: 50px;
+            }
             .post-footer {
                 display: flex;
                 justify-content: space-between;
