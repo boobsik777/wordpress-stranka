@@ -26,10 +26,10 @@
                 position: absolute;
                 top: 10px;
                 left: 10px;
-                background-color: #809A1B;
+                background: #809A1B;
                 color: #fff;
                 padding: 4px 6px;
-                border-radius: 4px;
+                border-radius: 9px;
                 text-align: center;
             }
             .image-wrapper {
@@ -52,11 +52,11 @@
                 width: 40px;
                 line-height: 40px;
                 border-radius: 50%;
-                background-color: #eee;
+                background: #eee;
                 color: #333;
             }
             .pagination .active {
-                background-color: #809A1B;
+                background: #809A1B;
                 color: #fff;
             }
         </style>
@@ -65,7 +65,7 @@
         <div class="container">
             <div class="media" style="margin-bottom: 35px;">
                 <div class="media-left">
-                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-1-e1760609904193.png" class="media-object">
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-1-e1760621147986.png" class="media-object">
                 </div>
                 <div class="media-body">
                     <h3 class="media-heading">Imię i nazwisko</h3>
@@ -75,7 +75,7 @@
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/vector-1.png">&nbsp; nazwaprofilu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/subtract-1.png">&nbsp; nazwaprofilu
                         </span>
-                        <button type="button" class="btn btn-light" style="background-color: #809A1B;color: #fff; float: right;">Napisz do mnie</button>
+                        <button type="button" class="btn btn-light" style="background: #809A1B;color: #fff; float: right;">Napisz do mnie</button>
                     </div>
                 </div>
             </div>
@@ -322,7 +322,9 @@
                     <a href="#">3</a>
                 </ul>
             </div>
-
+        </div>
+        <div class="container-fluid">
+            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-904-e1760524086110.png" style="width: 100%;">
         </div>
     </body>
 </html>

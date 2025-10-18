@@ -23,10 +23,10 @@
                 position: absolute;
                 top: 10px;
                 left: 10px;
-                background-color: #809A1B;
+                background: #809A1B;
                 color: #fff;
                 padding: 4px 6px;
-                border-radius: 4px;
+                border-radius: 9px;
                 text-align: center;
             }
             .image-wrapper {
@@ -49,11 +49,11 @@
                 width: 40px;
                 line-height: 40px;
                 border-radius: 50%;
-                background-color: #eee;
+                background: #eee;
                 color: #333;
             }
             .pagination .active {
-                background-color: #809A1B;
+                background: #809A1B;
                 color: #fff;
             }
         </style>
@@ -295,7 +295,9 @@
                     <a href="#">3</a>
                 </ul>
             </div>
-
+        </div>
+        <div class="container-fluid">
+            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-904-e1760524086110.png" style="width: 100%;">
         </div>
     </body>
 </html>
