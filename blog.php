@@ -68,7 +68,7 @@
     </head>
     <body>
         <div class="container">
-            <h1 class="title">Blog</h1>
+            <h1 style="font-size: 42px;">Blog</h1>
             <br><br>
             <div class="row">
                 <!-- 1 -->

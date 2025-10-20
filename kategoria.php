@@ -10,7 +10,7 @@
     </head>
     <body>
         <div class="container">
-            <h1 style="color: #383B3F;">Siew</h1>
+            <h1 style="color: #383B3F; font-size: 42px;">Siew</h1>
             <br><br><br>
             <div class="row">
                 <div class="col-sm-4">
