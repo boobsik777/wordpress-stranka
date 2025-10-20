@@ -20,58 +20,24 @@
                 background: none;
                 border: none;
             }
-            .btn {
-                border-radius: 50px;
-            }
-            .post-footer {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                margin-top: 10px;
-            }
-            .author-info {
-                display: flex;
-                align-items: center;
-                gap: 8px;
-            }
-            .date-box {
-                position: absolute;
-                top: 10px;
-                left: 10px;
-                background-color: #809A1B;
-                color: #fff;
-                padding: 4px 6px;
-                border-radius: 9px;
-                text-align: center;
-            }
-            .image-wrapper {
-                position: relative;
-                display: inline-block;
-            }
-            .image-wrapper img {
-                display: block;
-                width: 100%;
-            }
         </style>
     </head>
     <body>
         <div class="container">
-            <button type="button" class="btn btn-light">Strona główna</button>
-            <button type="button" class="btn btn-light">Blog</button>
-            <h1 class="title">Przykładowy tytuł wpisu blogowego</h1>
+            <h2 class="title">Przykładowy tytuł wpisu blogowego</h2>
             <br>
             <div class="row-line">
-                <div class="container" style="width: 50%; margin: 0 auto 0 0;">
+                <div class="container" style="width: 50%; margin: 0 auto 0 0; font-size: 16px; color: #60646A;">
                     Distinctively reconceptualize best-of-breed outsourcing via top-line bandwidth. Objectively pursue 24/365 infomediaries via cutting-edge scenarios. Objectively restore leading-edge growth strategies without standardized networks. Assertively matrix performance based services and B2C data. 
                 </div>
                 <div class="arrows">
                     <a href="#1"><button class="arrow-btn"><img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-134-1.png" alt="down arrow"></button></a>
                 </div>
             </div>
-            <br>
+            <br><br>
             <div class="author-info">
                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-53-1.png" style="margin-left: 0%;">
-                <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-1-e1760621147986.png">
+                <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-1-e1760621147986.png" style="border-radius: 10px;">
                 <span>Imię i nazwisko</span>
             </div>
             <br><br>
@@ -82,107 +48,119 @@
         <div class="container">
             <br><br><br>
             <!-- 1 -->
-            <h4>Lorem ipsum dolor sit amet</h4>
+            <h3>Lorem ipsum dolor sit amet</h3>
             <br>
-            <p>Distinctively reconceptualize best-of-breed outsourcing via top-line bandwidth. 
-                Objectively pursue 24/365 infomediaries via cutting-edge scenarios. 
-                Objectively restore leading-edge growth strategies without standardized networks. 
-                Assertively matrix performance based services and B2C data. 
-                Proactively expedite clicks-and-mortar methodologies with integrated collaboration and idea-sharing.
-            </p>
-            <br>
-            <p>
-                Collaboratively orchestrate client-focused functionalities before viral materials. 
-                Dynamically benchmark leading-edge systems for resource sucking value. 
-                Rapidiously transition installed base products with effective e-services. 
-                Dynamically harness end-to-end deliverables rather than low-risk high-yield intellectual capital. 
-                Enthusiastically incubate intuitive value rather than corporate deliverables.
-            </p>
-            <br>
-            <p>
-                Professionally network revolutionary networks without worldwide portals. 
-                Synergistically maximize enterprise e-services through just in time partnerships. 
-                Holisticly envisioneer fully researched technology via real-time channels. 
-                Conveniently implement distinctive communities with real-time benefits. 
-                Continually transition optimal niche markets with go forward services.
-            </p>
+            <div style="font-size: 16px; color: #60646A;">
+                <p>
+                    Distinctively reconceptualize best-of-breed outsourcing via top-line bandwidth. 
+                    Objectively pursue 24/365 infomediaries via cutting-edge scenarios. 
+                    Objectively restore leading-edge growth strategies without standardized networks. 
+                    Assertively matrix performance based services and B2C data. 
+                    Proactively expedite clicks-and-mortar methodologies with integrated collaboration and idea-sharing.
+                </p>
+                <br>
+                <p>
+                    Collaboratively orchestrate client-focused functionalities before viral materials. 
+                    Dynamically benchmark leading-edge systems for resource sucking value. 
+                    Rapidiously transition installed base products with effective e-services. 
+                    Dynamically harness end-to-end deliverables rather than low-risk high-yield intellectual capital. 
+                    Enthusiastically incubate intuitive value rather than corporate deliverables.
+                </p>
+                <br>
+                <p>
+                    Professionally network revolutionary networks without worldwide portals. 
+                    Synergistically maximize enterprise e-services through just in time partnerships. 
+                    Holisticly envisioneer fully researched technology via real-time channels. 
+                    Conveniently implement distinctive communities with real-time benefits. 
+                    Continually transition optimal niche markets with go forward services.
+                </p>
+            </div>
             <br>
             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-1-3.png">
             <br><br><br>
             <!-- 2 -->
-            <h4>Lorem ipsum dolor sit amet</h4>
+            <h3>Lorem ipsum dolor sit amet</h3>
             <br>
-            <p>Distinctively reconceptualize best-of-breed outsourcing via top-line bandwidth. 
-                Objectively pursue 24/365 infomediaries via cutting-edge scenarios. 
-                Objectively restore leading-edge growth strategies without standardized networks. 
-                Assertively matrix performance based services and B2C data. 
-                Proactively expedite clicks-and-mortar methodologies with integrated collaboration and idea-sharing.
-            </p>
-            <br>
-            <p>
-                Collaboratively orchestrate client-focused functionalities before viral materials. 
-                Dynamically benchmark leading-edge systems for resource sucking value. 
-                Rapidiously transition installed base products with effective e-services. 
-                Dynamically harness end-to-end deliverables rather than low-risk high-yield intellectual capital. 
-                Enthusiastically incubate intuitive value rather than corporate deliverables.
-            </p>
-            <br>
-            <p>
-                Professionally network revolutionary networks without worldwide portals. 
-                Synergistically maximize enterprise e-services through just in time partnerships. 
-                Holisticly envisioneer fully researched technology via real-time channels. 
-                Conveniently implement distinctive communities with real-time benefits. 
-                Continually transition optimal niche markets with go forward services.
-            </p>
+            <div style="font-size: 16px; color: #60646A;">
+                <p>
+                    Distinctively reconceptualize best-of-breed outsourcing via top-line bandwidth. 
+                    Objectively pursue 24/365 infomediaries via cutting-edge scenarios. 
+                    Objectively restore leading-edge growth strategies without standardized networks. 
+                    Assertively matrix performance based services and B2C data. 
+                    Proactively expedite clicks-and-mortar methodologies with integrated collaboration and idea-sharing.
+                </p>
+                <br>
+                <p>
+                    Collaboratively orchestrate client-focused functionalities before viral materials. 
+                    Dynamically benchmark leading-edge systems for resource sucking value. 
+                    Rapidiously transition installed base products with effective e-services. 
+                    Dynamically harness end-to-end deliverables rather than low-risk high-yield intellectual capital. 
+                    Enthusiastically incubate intuitive value rather than corporate deliverables.
+                </p>
+                <br>
+                <p>
+                    Professionally network revolutionary networks without worldwide portals. 
+                    Synergistically maximize enterprise e-services through just in time partnerships. 
+                    Holisticly envisioneer fully researched technology via real-time channels. 
+                    Conveniently implement distinctive communities with real-time benefits. 
+                    Continually transition optimal niche markets with go forward services.
+                </p>
+            </div>
             <br>
             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-5-e28093-1.png">
             <br><br><br>
             <!-- 3 -->
-            <h4>Lorem ipsum dolor sit amet</h4>
+            <h3>Lorem ipsum dolor sit amet</h3>
             <br>
-            <p>Distinctively reconceptualize best-of-breed outsourcing via top-line bandwidth. 
-                Objectively pursue 24/365 infomediaries via cutting-edge scenarios. 
-                Objectively restore leading-edge growth strategies without standardized networks. 
-                Assertively matrix performance based services and B2C data. 
-                Proactively expedite clicks-and-mortar methodologies with integrated collaboration and idea-sharing.
-            </p>
-            <br>
-            <p>
-                Collaboratively orchestrate client-focused functionalities before viral materials. 
-                Dynamically benchmark leading-edge systems for resource sucking value. 
-                Rapidiously transition installed base products with effective e-services. 
-                Dynamically harness end-to-end deliverables rather than low-risk high-yield intellectual capital. 
-                Enthusiastically incubate intuitive value rather than corporate deliverables.
-            </p>
-            <br>
-            <p>
-                Professionally network revolutionary networks without worldwide portals. 
-                Synergistically maximize enterprise e-services through just in time partnerships. 
-                Holisticly envisioneer fully researched technology via real-time channels. 
-                Conveniently implement distinctive communities with real-time benefits. 
-                Continually transition optimal niche markets with go forward services.
-            </p>
+            <div style="font-size: 16px; color: #60646A;">
+                <p>
+                    Distinctively reconceptualize best-of-breed outsourcing via top-line bandwidth. 
+                    Objectively pursue 24/365 infomediaries via cutting-edge scenarios. 
+                    Objectively restore leading-edge growth strategies without standardized networks. 
+                    Assertively matrix performance based services and B2C data. 
+                    Proactively expedite clicks-and-mortar methodologies with integrated collaboration and idea-sharing.
+                </p>
+                <br>
+                <p>
+                    Collaboratively orchestrate client-focused functionalities before viral materials. 
+                    Dynamically benchmark leading-edge systems for resource sucking value. 
+                    Rapidiously transition installed base products with effective e-services. 
+                    Dynamically harness end-to-end deliverables rather than low-risk high-yield intellectual capital. 
+                    Enthusiastically incubate intuitive value rather than corporate deliverables.
+                </p>
+                <br>
+                <p>
+                    Professionally network revolutionary networks without worldwide portals. 
+                    Synergistically maximize enterprise e-services through just in time partnerships. 
+                    Holisticly envisioneer fully researched technology via real-time channels. 
+                    Conveniently implement distinctive communities with real-time benefits. 
+                    Continually transition optimal niche markets with go forward services.
+                </p>
+            </div>
             <br>
             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-6-e28093-1.png">
             <br><br><br>
-            <div class="well" style="background-color: #E1EDED; display: flex;">
-                <div class="well" style="width: 250px; height: 230px; padding: 15px;">
-                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-3-e1760690483605.png" style="display: block; margin: auto;">
-                    <h5><b>Imię i nazwisko</b></h5>
-                    <p style="font-size: 10px;">specjalizacja/stanowisko</p>
+            <div class="well" style="background-color: #F0F5F9; display: flex; border-radius: 10px;">
+                <div class="well" style="width: 250px; height: 230px; padding: 15px; background-color: #FFFFFF; border-radius: 10px;">
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-2-e1760948548711.png" style="display: block; margin: auto; border-radius: 10px;">
+                    <br>
+                    <p style="font-size: 16px;">Imię i nazwisko</p>
+                    <p style="font-size: 14px; color: #707070;">specjalizacja/stanowisko</p>
                 </div>
                 <div class="well-text" style="margin-left: 25px;">
-                    <p>Conveniently whiteboard global infrastructures whereas intuitive benefits. 
-                        Globally productize world-class mindshare through multifunctional e-tailers.
-                         Authoritatively mesh web-enabled e-tailers for client-centric strategic theme areas. 
-                    </p>
-                    <br>
-                    <p>
-                        Credibly promote error-free processes via extensible best practices. 
-                        Dramatically facilitate leading-edge applications before professional outsourcing.
-                    </p>
+                    <div style="color: #60646A; font-size: 16px;">
+                        <p>Conveniently whiteboard global infrastructures whereas intuitive benefits. 
+                            Globally productize world-class mindshare through multifunctional e-tailers.
+                            Authoritatively mesh web-enabled e-tailers for client-centric strategic theme areas. 
+                        </p>
+                        <br>
+                        <p>
+                            Credibly promote error-free processes via extensible best practices. 
+                            Dramatically facilitate leading-edge applications before professional outsourcing.
+                        </p>
+                    </div>
                     <br><br><br>
-                    <button type="button" class="btn btn-light" style="background-color: #000000; color: #fff;">Więcej</button>
+                    <button type="button" class="btn btn-light" style="background-color: #383B3F; color: #fff;">Więcej</button>
                 </div>
             </div>
             <br><br><br>
@@ -192,9 +170,9 @@
         </div>
         <div class="container">
             <br><br><br>
-            <h5>PODOBNE</h5>
+            <p style="color: #383B3F; font-size: 12px;">PODOBNE</p>
             <div class="row-line">
-                <span><h3 id="1">Przeczytaj także</h3></span>
+                <span><h2 id="1" style="color: #383B3F;">Przeczytaj także</h2></span>
                 <div class="arrows">
                     <button class="arrow-btn"><img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-134.png" alt="left arrow"></button>
                     <button class="arrow-btn"><img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-135.png" alt="right arrow"></button>
@@ -204,43 +182,43 @@
             <div class="row">
                 <!-- 1 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 20px;">10</div>
-                                <small>12.2023</small>
+                                <div style="font-size: 23px;">10</div>
+                                <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-9.png">
                         </div>
-                        <h4 style="margin-top: 25px;">Nazwa wpisu</h4>
-                        <div style="margin-top: 25px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
+                        <h3 style="margin-top: 25px;">Nazwa wpisu</h3>
+                        <div class="btext">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
                         <div class="post-footer" style="margin-top: 30px;">
                             <div class="author-info">
-                                <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
-                                <span>Imię i nazwisko</span>
+                                <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%; border-radius: 10px;">
+                                <span style="color: #60646A;">Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light" style="background-color: #F0F5F9;">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
                 <!-- 2 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 20px;">12</div>
-                                <small>12.2023</small>
+                                <div style="font-size: 23px;">12</div>
+                                <small style="font-size: 12px;">12.2023</small>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-1-1.png">
                         </div>
-                        <h4 style="margin-top: 25px;">Nazwa wpisu</h4>
-                        <div style="margin-top: 25px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
+                        <h3 style="margin-top: 25px;">Nazwa wpisu</h3>
+                        <div class="btext">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </div>
                         <div class="post-footer" style="margin-top: 30px;">
                             <div class="author-info">
-                                <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%;">
-                                <span>Imię i nazwisko</span>
+                                <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%; border-radius: 10px;">
+                                <span style="color: #60646A;">Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light">Czytaj więcej</button>
+                            <button type="button" class="btn btn-light" style="background-color: #F0F5F9;">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
