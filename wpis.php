@@ -20,10 +20,48 @@
                 background: none;
                 border: none;
             }
+            .btn {
+                border-radius: 50px;
+            }
+            .post-footer {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-top: 10px;
+            }
+            .author-info {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+            }
+            .date-box {
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                background-color: #809A1B;
+                color: #fff;
+                padding: 4px 6px;
+                border-radius: 9px;
+                text-align: center;
+            }
+            .image-wrapper {
+                position: relative;
+                display: inline-block;
+            }
+            .image-wrapper img {
+                display: block;
+                width: 100%;
+            }
+            .btext {
+                margin-top: 25px;
+                font-size: 16px;
+                color: #60646A;
+            }
         </style>
     </head>
     <body>
         <div class="container">
+            <button type="button" class="oval-btn" style="border-color: #DEE6ED; background-color: #FFFFFF; color: #60646A;">Blog</button>
             <h2 class="title">Przykładowy tytuł wpisu blogowego</h2>
             <br>
             <div class="row-line">
@@ -76,7 +114,7 @@
                 </p>
             </div>
             <br>
-            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-1-3.png">
+            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-1-3.png" style="max-width: 100%; height: auto;">
             <br><br><br>
             <!-- 2 -->
             <h3>Lorem ipsum dolor sit amet</h3>
@@ -107,7 +145,7 @@
                 </p>
             </div>
             <br>
-            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-5-e28093-1.png">
+            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-5-e28093-1.png" style="max-width: 100%; height: auto;">
             <br><br><br>
             <!-- 3 -->
             <h3>Lorem ipsum dolor sit amet</h3>
@@ -138,11 +176,11 @@
                 </p>
             </div>
             <br>
-            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-6-e28093-1.png">
+            <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-6-e28093-1.png" style="max-width: 100%; height: auto;">
             <br><br><br>
-            <div class="well" style="background-color: #F0F5F9; display: flex; border-radius: 10px;">
-                <div class="well" style="width: 250px; height: 230px; padding: 15px; background-color: #FFFFFF; border-radius: 10px;">
-                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-2-e1760948548711.png" style="display: block; margin: auto; border-radius: 10px;">
+            <div class="well" style="background-color: #F0F5F9; display: flex; border-radius: 10px; border: none;">
+                <div class="well" style="width: 250px; height: automatic; padding: 15px; background-color: #FFFFFF; border-radius: 10px; border: none;">
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-4.png" style="display: block; margin: auto; border-radius: 10px;">
                     <br>
                     <p style="font-size: 16px;">Imię i nazwisko</p>
                     <p style="font-size: 14px; color: #707070;">specjalizacja/stanowisko</p>
@@ -159,8 +197,8 @@
                             Dramatically facilitate leading-edge applications before professional outsourcing.
                         </p>
                     </div>
-                    <br><br><br>
-                    <button type="button" class="btn btn-light" style="background-color: #383B3F; color: #fff;">Więcej</button>
+                    <br><br><br><br><br>
+                    <button type="button" class="oval-btn" style="background-color: #383B3F; color: #fff;">Więcej</button>
                 </div>
             </div>
             <br><br><br>
@@ -170,7 +208,7 @@
         </div>
         <div class="container">
             <br><br><br>
-            <p style="color: #383B3F; font-size: 12px;">PODOBNE</p>
+            <div style="color: #383B3F; font-size: 12px; line-height: 1;">PODOBNE</div>
             <div class="row-line">
                 <span><h2 id="1" style="color: #383B3F;">Przeczytaj także</h2></span>
                 <div class="arrows">
@@ -182,10 +220,10 @@
             <div class="row">
                 <!-- 1 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">10</div>
+                                <div style="font-size: 26px; line-height: 1;">10</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-9.png">
@@ -197,16 +235,16 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%; border-radius: 10px;">
                                 <span style="color: #60646A;">Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="background-color: #F0F5F9;">Czytaj więcej</button>
+                            <button type="button" class="oval-btn" style="background-color: #F0F5F9;">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
                 <!-- 2 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">12</div>
+                                <div style="font-size: 26px; line-height: 1;">12</div>
                                 <small style="font-size: 12px;">12.2023</small>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-1-1.png">
@@ -218,7 +256,7 @@
                                 <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/rectangle-21-e1760601538688.png" style="margin-left: 0%; border-radius: 10px;">
                                 <span style="color: #60646A;">Imię i nazwisko</span>
                             </div>
-                            <button type="button" class="btn btn-light" style="background-color: #F0F5F9;">Czytaj więcej</button>
+                            <button type="button" class="oval-btn" style="background-color: #F0F5F9;">Czytaj więcej</button>
                         </div>
                     </div>
                 </div>
