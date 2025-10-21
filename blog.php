@@ -68,15 +68,15 @@
     </head>
     <body>
         <div class="container">
-            <h1 style="font-size: 42px;">Blog</h1>
+            <h1 class="title">Blog</h1>
             <br><br>
             <div class="row">
                 <!-- 1 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">10</div>
+                                <div style="font-size: 26px; line-height: 1;">10</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-9.png">
@@ -94,10 +94,10 @@
                 </div>
                 <!-- 2 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">12</div>
+                                <div style="font-size: 26px; line-height: 1;">12</div>
                                 <small style="font-size: 12px;">12.2023</small>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-1-1.png">
@@ -117,10 +117,10 @@
             <div class="row">
                 <!-- 3 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">12</div>
+                                <div style="font-size: 26px; line-height: 1;">12</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-2.png">
@@ -138,10 +138,10 @@
                 </div>
                 <!-- 4 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">10</div>
+                                <div style="font-size: 26px; line-height: 1;">10</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-5-2.png">
@@ -161,10 +161,10 @@
             <div class="row">
                 <!-- 5 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">10</div>
+                                <div style="font-size: 26px; line-height: 1;">10</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-3.png">
@@ -182,10 +182,10 @@
                 </div>
                 <!-- 6 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">12</div>
+                                <div style="font-size: 26px; line-height: 1;">12</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-4.png">
@@ -205,10 +205,10 @@
             <div class="row">
                 <!-- 7 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">12</div>
+                                <div style="font-size: 26px; line-height: 1;">12</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-5.png">
@@ -226,10 +226,10 @@
                 </div>
                 <!-- 8 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">10</div>
+                                <div style="font-size: 26px; line-height: 1;">10</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-6.png">
@@ -249,10 +249,10 @@
             <div class="row">
                 <!-- 9 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">10</div>
+                                <div style="font-size: 26px; line-height: 1;">10</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-7.png">
@@ -270,10 +270,10 @@
                 </div>
                 <!-- 10 -->
                 <div class="col-sm-6">
-                    <div class="thumbnail" style="padding: 25px; border-radius: 10px;">
+                    <div class="thumbnail" style="padding: 25px; border-radius: 10px; border-color: #DEE6ED;">
                         <div class="image-wrapper">
                             <div class="date-box">
-                                <div style="font-size: 23px;">12</div>
+                                <div style="font-size: 26px; line-height: 1;">12</div>
                                 <div style="font-size: 12px;">12.2023</div>
                             </div>
                             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-4-8.png">
