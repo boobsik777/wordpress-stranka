@@ -53,7 +53,7 @@
             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/subtract.png" style="width: 100%;">
             <div class="container">
                 <br><br><br>
-                <div style="font-size: 12px;">FAQ</div>
+                <div style="font-size: 12px; line-height: 1;">FAQ</div>
                 <div style="display: flex; justify-content: space-between; align-items: center;">
                     <h2>Jak wynająć?</h2>
                     <button type="button" class="btn btn-light" style="color: #383B3F; font-size: 16px;">Skontaktuj się</button>
