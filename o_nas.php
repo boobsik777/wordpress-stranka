@@ -64,9 +64,9 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-sm-6">
-                    <br><br><br>
-                    <p style="color: #383B3F; font-size: 12px;">Quis autem vel eum iure reprehenderit</p>
+                <div class="col-sm-5">
+                    <br><br><br><br>
+                    <div style="color: #383B3F; font-size: 12px; line-height: 1;">Quis autem vel eum iure reprehenderit</div>
                     <h2 style="color: #383B3F; font-size: 32px;">Lorem ipsum dolor sit amet</h2>
                     <br>
                     <div style="color: #60646A; font-size: 16px;">
@@ -82,8 +82,8 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-6">
-                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-2.jpg" style="width: 100%;">
+                <div class="col-sm-7"">
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-2-e1761053574309.jpg">
                 </div>
             </div>
             <br><br><br><br>
@@ -98,7 +98,7 @@
         </div>
         <div class="container-fluid" style="position: relative;">
             <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/bg.png" style="width: 100%; display: block;"">
-            <div class="container" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); padding-top: 50px;"">
+            <div class="container" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); padding-top: 10px;"">
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="well" style="background-color: #FFFFFF; text-align: center; border: none; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
@@ -137,36 +137,42 @@
                     <p style="font-size: 16px; color: #60646A; width: 50%; margin-left: 25%;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                 </div>
                 <br><br><br><br><br>
-                <table style="border-collapse: collapse; width: 100%;">
-                    <tr>
-                        <td rowspan="2" style="vertical-align: middle;"><img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7.png"></td>
-                        <td style="font-size: 48px; color: #383B3F;">900+</td>
-                        <td rowspan="2" style="vertical-align: middle;"><img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7-1.png"></td>
-                        <td style="font-size: 48px; color: #383B3F;">50+</td>
-                        <td rowspan="2" style="vertical-align: middle;"><img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7-2.png"></td>
-                        <td style="font-size: 48px; color: #383B3F;">500t</td>
-                        <td rowspan="2" style="vertical-align: middle;"><img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7-3.png"></td>
-                        <td style="font-size: 48px; color: #383B3F;">800+</td>
-                        <td rowspan="2" style="vertical-align: middle;"><img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7-4.png"></td>
-                        <td style="font-size: 48px; color: #383B3F;">60+</td>
-                    </tr>
-                    <tr>
-                        <td style="color: #60646A; font-size: 16px;">zasianych hektarów</td>
-                        <td style="color: #60646A; font-size: 16px;">zestawów maszyn</td>
-                        <td style="color: #60646A; font-size: 16px;">zebranych plonów</td>
-                        <td style="color: #60646A; font-size: 16px;">zadowolonych klientów</td>
-                        <td style="color: #60646A; font-size: 16px;">operatorów</td>
-                    </tr>
-                </table>
+                <div style="display: flex; align-items: center; flex-wrap: nowrap;">
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7.png" style="width: 60px; height: 60px; margin-right: 8px;">
+                    <div style="text-align: left; white-space: nowrap; margin-right: 32px;">
+                        <div style="font-size: 48px; color: #383B3F; margin: 0; line-height: 1;">900+</div>
+                        <div style="font-size: 16px; color: #60646A; margin: 0; line-height: 1;">zasianych hektarów</div>
+                    </div>
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7-1.png" style="width: 60px; height: 60px; margin-right: 8px;">
+                    <div style="text-align: left; white-space: nowrap; margin-right: 32px;">
+                        <div style="font-size: 48px; color: #383B3F; margin: 0; line-height: 1;">50+</div>
+                        <div style="font-size: 16px; color: #60646A; margin: 0; line-height: 1;">zestawów maszyn</div>
+                    </div>
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7-2.png" style="width: 60px; height: 60px; margin-right: 8px;">
+                    <div style="text-align: left; white-space: nowrap; margin-right: 32px;">
+                        <div style="font-size: 48px; color: #383B3F; margin: 0; line-height: 1;">500t</div>
+                        <div style="font-size: 16px; color: #60646A; margin: 0; line-height: 1;">zebranych plonów</div>
+                    </div>
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7-3.png" style="width: 60px; height: 60px; margin-right: 8px;">
+                    <div style="text-align: left; white-space: nowrap; margin-right: 32px;">
+                        <div style="font-size: 48px; color: #383B3F; margin: 0; line-height: 1;">800+</div>
+                        <div style="font-size: 16px; color: #60646A; margin: 0; line-height: 1;">zadowolonych klientów</div>
+                    </div>
+                    <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/group-7-4.png" style="width: 60px; height: 60px; margin-right: 8px;">
+                    <div style="text-align: left; white-space: nowrap;">
+                        <div style="font-size: 48px; color: #383B3F; margin: 0; line-height: 1;">60+</div>
+                        <div style="font-size: 16px; color: #60646A; margin: 0; line-height: 1;">operatorów</div>
+                    </div>
+                </div>
             </div>
             <br><br><br><br><br>
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-7">
                     <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/image-2.png">
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-5">
                     <br><br><br><br><br><br><br><br><br><br>
                     <p style="color: #383B3F; font-size: 12px;">Quis autem vel eum iure reprehenderit</p>
                     <h2 style="color: #383B3F; font-size: 32px;">Lorem ipsum dolor sit amet</h2>
@@ -183,7 +189,8 @@
                             Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                     </div>
-                    <button type="button" class="oval-btn" style="color: #FFFFFF; background-color: #809A1B; font-size: 16px;">Skontaktuj się</button>
+                    <br>
+                    <button type="button" class="oval-btn" style="color: #FFFFFF; background-color: #809A1B; font-size: 16px; padding-left: 16px; padding-right: 16px;">Skontaktuj się</button>
                 </div>
             </div>
             <br><br><br><br>
@@ -248,6 +255,7 @@
                 </div>
             </div>
         </div>
+        <br><br><br>
         <div class="container-fluid">
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
