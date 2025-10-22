@@ -38,7 +38,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <br><br><br><br><br>
-                        <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/logo-1.png">
+                        <h1 style="font-size: 42px; color: #383B3F;">KONTAKT</h1>
                         <br><br><br><br>
                             <div style="color: #60646A; font-size: 16px;">
                                 <p>
