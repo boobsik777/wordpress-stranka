@@ -13,7 +13,7 @@
                 border: none;
             }
             /* MENU */
-            .menu {
+            .o-nas-menu {
                 display: inline-flex;
                 align-items: center;
                 background-color: #F0F5F9;
@@ -21,7 +21,7 @@
                 padding: 6px 12px;
                 gap: 10px;
             }
-            .menu button {
+            .o-nas-menu button {
                 background: none;
                 border: none;
                 color: #809A1B;
@@ -35,11 +35,11 @@
                 align-items: center;
                 gap: 5px;
             }
-            .menu button.active {
+            .o-nas-menu button.active {
                 background-color: #809A1B;
                 color: white;
             }
-            .menu button:hover {
+            .o-nas-menu button:hover {
                 background-color: #b6c97c;
                 color: white;
             }
@@ -88,7 +88,7 @@
             </div>
             <br><br><br><br>
             <div style="text-align: center;">
-                <div class="menu">
+                <div class="o-nas-menu">
                     <button class="active">Uprawa <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-11-1-1.png"></button>
                     <button>Siew <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-11.png"></button>
                     <button>Zbiór <img src="https://group1422.wordpress.com/wp-content/uploads/2025/10/frame-11.png"></button>
