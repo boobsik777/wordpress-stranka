@@ -9,25 +9,27 @@
         <title>Footer</title>
         <style>
             input[type="checkbox"] {
-                appearance: none;
-                width: 23px;
-                height: 18px;
+                display: none;
+            }
+            .checkbox-label {
+                display: inline-block;
+                width: 30px;
+                height: 22px;
                 border: 2px solid #A0A7AD;
                 border-radius: 5px;
                 position: relative;
-                display: inline-block;
-                box-sizing: border-box;
+                cursor: pointer;
             }
-            input[type="checkbox"]:checked::after {
-                content: '';
+            .checkbox-label i {
                 position: absolute;
-                left: 5px;
-                top: 1px;
-                width: 5px;
-                height: 10px;
-                border: solid #383B3F;
-                border-width: 0 2px 2px 0;
-                transform: rotate(45deg);
+                top: 3px;
+                left: 4px;
+                font-size: 14px;
+                color: #383B3F;
+                display: none;
+            }
+            input[type="checkbox"]:checked + .checkbox-label i {
+                display: block;
             }
         </style>
     </head>
@@ -110,7 +112,7 @@
                                         <input type="text" id="telefon" placeholder="Wpisz tutaj" name="telefon" style="width: 100%; padding: 12px; font-size: 16px; height: 43px; border: 1px solid #A0A7AD;; border-radius: 10px;">
                                     </div>
                                     <div class="col-sm-6">
-                                        <h6>Twój adres e-mail*</h6>
+                                        <p style="font-size: 12px; color: #383B3F;">Twój adres e-mail*</p>
                                         <input type="email" id="email" placeholder="Wpisz tutaj" name="email" style="width: 100%; padding: 12px; font-size: 16px; height: 43px; border: 1px solid #A0A7AD; border-radius: 10px;">
                                     </div>
                                 </div>
@@ -119,7 +121,8 @@
                                 <textarea class="form-control" rows="5" id="comment" placeholder="Wpisz tutaj" style="width: 100%; resize: none; font-size: 16px; box-shadow: none; border-color: #A0A7AD; border-radius: 10px;"></textarea>
                                 <br>
                                 <div style="display: flex; align-items: flex-start; gap: 10px; font-size: 12px; color: #383B3F;">
-                                    <input type="checkbox" name="checkbox">
+                                    <input type="checkbox" id="privacy">
+                                    <label for="privacy" class="checkbox-label"><i class="fa fa-check"></i></label>
                                     <div style="color: #383B3F; font-size: 12px;">
                                         Oświadczam, że zapoznałem się z treścią polityki prywatności
                                         i akceptuję zasady przetwarzania moich danych osobowych*
